@@ -1,6 +1,6 @@
 # Привет, меня зовут Святослав! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/ваш-ник?style=social)](https://github.com/ваш-ник)
+[![GitHub followers](https://img.shields.io/github/followers/svjat-orb?style=social)](https://github.com/svjat-orb)
 
 🔭 **Чем я занимаюсь:**  
 - Изучаю Frontend на Stepik  
