@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет, меня зовут Святослав! 👋
 
-<!--
-**svjat-orb/svjat-orb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/ваш-ник?style=social)](https://github.com/ваш-ник)
 
-Here are some ideas to get you started:
+🔭 **Чем я занимаюсь:**  
+- Изучаю Frontend на Stepik  
+- Основная профессия: специалист по ИБ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Сейчас изучаю:**  
+- Языки: HTML/CSS, PHP  
+- Фреймворки: Laravel  
+- Инструменты: VS Code  
+
+💡 **Мои интересы:**  
+- Разработка ПО / Алгоритмы    
+- Кибербезопасность / DevOps    
+
+📫 **Как связаться:**  
+- Email: lazy-trader@yandex.ru  
+- Telegram: [@svjat.orb](https://t.me/svjat.orb)   
+
+🚀 **Мои проекты:**  
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Vitage Foods - макет сайта бургерной](https://github.com/svjat-orb/Vintage_food) | Первый проект от Stepik | HTML, CSS |
+| [Music Player - макет web интерфейса музыкального плеера](https://github.com/svjat-orb/music_player) | Второй проект от Stepik | HTML, CSS |
+
+📊 **Статистика GitHub:**  
+![Мои языки](https://github-readme-stats.vercel.app/api/top-langs/?username=svjat-orb&layout=compact&theme=dracula)  
+![Статистика](https://github-readme-stats.vercel.app/api?username=svjat-orb&show_icons=true&theme=dracula)  
+
+⭐ **Факт обо мне:**  
+Поклонник opensource софта  
+> Люблю автоматизировать рутинные задачи  
+
+![Hi all](https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif?cid=ecf05e474dd64zwdya4lc0ztj7x1v3axi9ov9hzylkee7uzv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
